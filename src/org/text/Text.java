@@ -27,6 +27,11 @@ public class Text {
 	String attribute2 = textuser.getAttribute("id");
 	System.out.println(attribute2);
 	
+	System.out.println("jittu edit 1");
+	System.out.println("jittu edit 2");
+	System.out.println("jittu edit 3");
+	System.out.println("jittu edit 4");
+
 	
 	
 	}
